@@ -4,7 +4,7 @@ Repositori untuk setup PHP dan Apache2 di android menggunakan Termux. Untuk tuto
 Untuk instalasi php dan apache2. Buka termux, lalu run command ini:
 
 ```
-pkg install git -y && cd ~/ && git clone https://github.com/BarrilEuyy/ && cd ~/install-localhost && bash setup && cd ~/
+pkg install git -y && cd ~/ && git clone https://github.com/BarrilEuyy/Termux-localhost && cd ~/Termux-localhost && bash setup && cd ~/
 ```
 ## Test Instalasi
 Cek versi php:
