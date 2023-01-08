@@ -11,7 +11,7 @@ Cek versi php:
 ```
 php -v
 ```
-![cek versi php](image/check-php-version.png)
+![cek versi php](check-php-version.png)
 
 Untuk menguji apakah PHP bisa  dirunning. Buat file index.php:
 ```
@@ -23,4 +23,4 @@ start server:
 apachectl
 ```
 
-![tes running server](image/tes-run.png)
+![tes running server](tes-run.png)
